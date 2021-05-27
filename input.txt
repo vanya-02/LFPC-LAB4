@@ -1,0 +1,6 @@
+5
+S -> Cf
+A -> d | e
+B -> Dc
+C -> abB
+D -> A | gA
